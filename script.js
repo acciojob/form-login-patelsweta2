@@ -12,4 +12,5 @@ function getFormValue() {
  
   return false;
 }
+getFormValue();
 
